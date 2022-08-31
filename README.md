@@ -1,4 +1,4 @@
-### Hi there 👋
+[<img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">](https://www.credly.com/badges/9e198245-efc5-4095-856f-9591f3c5682f/public_url)
 
 <!--
 **PSteinweg/PSteinweg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
