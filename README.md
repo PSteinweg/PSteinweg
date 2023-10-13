@@ -1,8 +1,11 @@
 # Zertifizierungen & Skills
 
 [<img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">](https://www.credly.com/badges/9e198245-efc5-4095-856f-9591f3c5682f/public_url)
+[<img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">](https://www.credly.com/badges/3686c724-8a4f-4cca-94b5-8e379d2887e3/public_url)
+[<img src="https://images.credly.com/size/110x110/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png">](https://www.credly.com/badges/3686c724-8a4f-4cca-94b5-8e379d2887e3/public_url)
 
 <!--
+
 **PSteinweg/PSteinweg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
